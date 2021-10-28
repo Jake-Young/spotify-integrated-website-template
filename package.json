@@ -1,0 +1,23 @@
+{
+  "name": "spotify-integrated-website-template",
+  "version": "1.0.0",
+  "description": "This template will be used for future personal projects involving the use of licensed music. Feel free to use the template however you wish, but it has been designed to allow creators to take advantage of Spotify's library for use with websites without dealing with license issues.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jake-Young/spotify-integrated-website-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jake-Young/spotify-integrated-website-template/issues"
+  },
+  "homepage": "https://github.com/Jake-Young/spotify-integrated-website-template#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  }
+}
